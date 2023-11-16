@@ -129,7 +129,6 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/Offici
 - **Describe the current behaviour** and **explain which behaviour you expected to see instead** and why. At this point you can also tell which alternatives do not work for you.
 - You may want to **include screenshots and animated GIFs** which help you demonstrate the steps or point out the part which the suggestion is related to. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux. <!-- this should only be included if the project has a GUI -->
 
-<a href="https://github.com/OfficialChrisTucker/WhyDoWe-Servers/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
 
 <a href="https://github.com/OfficialChrisTucker/WhyDoWe-Servers/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=OfficialChrisTucker/WhyDoWe-Servers" />
