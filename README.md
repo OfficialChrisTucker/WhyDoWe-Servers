@@ -7,5 +7,5 @@
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-[![All Contributors](https://img.shields.io/github/all-contributors/OfficialChrisTucker/WhyDoWe-Servers?color=ee8449&style=flat-square)](#contributors
+[![All Contributors](https://img.shields.io/github/all-contributors/OfficialChrisTucker/WhyDoWe-Servers?color=ee8449&style=flat-square)]
 <!-- ALL-CONTRIBUTORS-LIST:END -->
