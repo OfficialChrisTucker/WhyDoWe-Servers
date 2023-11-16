@@ -131,6 +131,9 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/Offici
 
 <a href="https://github.com/OfficialChrisTucker/WhyDoWe-Servers/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
 
+<a href="https://github.com/OfficialChrisTucker/WhyDoWe-Servers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=OfficialChrisTucker/WhyDoWe-Servers" />
+</a>
 
 
 <!-- omit in toc -->
