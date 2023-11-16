@@ -9,4 +9,4 @@
 <!-- prettier-ignore-end -->
 [![All Contributors](https://img.shields.io/github/all-contributors/OfficialChrisTucker/WhyDoWe-Servers?color=ee8449&style=flat-square)]
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-<a href="https://github.com/OfficialChrisTucker/WhyDoWe-Servers/graphs/contributors"> 
+<a href="https://github.com/OfficialChrisTucker/WhyDoWe-Servers/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
